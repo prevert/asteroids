@@ -1,0 +1,2 @@
+# asteroids
+KOD OD GKBRK DOPLNENY O STRILENI
